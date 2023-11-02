@@ -1,0 +1,20 @@
+sequence Reflect : no unused namespace(s), meta, type, link
+
+	>Compress
+	<<ReflectCompress.cs
+
+	>CompressRaw
+	<<ReflectCompressRaw.cs
+
+	>Prototype
+	<<ReflectPrototype.cs
+
+	<Reflect.cs
+
+	/object\OBJECT/ReflectObject.cs\
+
+	/object\OBJECT/ReflectDataObject.cs\
+
+	/module\MODULE/ReflectModule.cs\
+
+end sequence

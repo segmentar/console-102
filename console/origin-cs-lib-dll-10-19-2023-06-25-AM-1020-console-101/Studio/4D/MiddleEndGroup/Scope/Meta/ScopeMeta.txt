@@ -1,0 +1,8 @@
+sequence Scope : no unused namespace(s), meta, link, type, measure, runtime
+
+	>InformationRaw
+	<<ScopeInformationRaw.cs
+
+	<Scope.cs
+
+end sequence

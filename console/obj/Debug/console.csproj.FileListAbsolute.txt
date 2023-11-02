@@ -1,0 +1,12 @@
+C:\Users\todor\source\repos\console\obj\Debug\console.csproj.AssemblyReference.cache
+C:\Users\todor\source\repos\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\console\bin\Debug\console-ae-x86-debug.dll
+C:\Users\todor\source\repos\console\bin\Debug\console-ae-x86-debug.pdb
+C:\Users\todor\source\repos\console\obj\Debug\console-ae-x86-debug.dll
+C:\Users\todor\source\repos\console\obj\Debug\console-ae-x86-debug.pdb
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\obj\Debug\console.csproj.AssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\bin\Debug\console-ae-x86-debug.dll
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\bin\Debug\console-ae-x86-debug.pdb
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\obj\Debug\console-ae-x86-debug.dll
+C:\Users\todor\OneDrive\Desktop\Origin Folder\console\obj\Debug\console-ae-x86-debug.pdb

@@ -1,0 +1,6 @@
+sequence Element : no unused namespace(s), meta, link, type
+
+	>Compress
+	<<ElementCompress.cs
+
+end sequence
